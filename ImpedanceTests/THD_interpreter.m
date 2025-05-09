@@ -1,8 +1,8 @@
-test = readtable("0cope_7.csv");
+test = readtable("jcope_8.csv");
 
 % test = renamevars(test, "x_Freq_", "Frequency");
 
-test2 = readtable("0cope_8.csv");
+test2 = readtable("jcope_9.csv");
 % test2 = renamevars(test2, "x_Freq_", "Frequency");
 
 width  = 1200; % Width of figure
