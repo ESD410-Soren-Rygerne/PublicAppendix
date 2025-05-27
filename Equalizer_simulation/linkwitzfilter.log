@@ -1,0 +1,127 @@
+LTspice 24.1.1 for Windows
+Circuit: C:\Users\Mikke\OneDrive - Aalborg Universitet\Dokumenter\LTspice\Filter\linkwitzfilter.net
+Start Time: Fri May  2 08:18:14 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 7.08
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 7.21643
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 7.22171
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 7.57576%
+Source Step = 9.85736%
+Source Step = 9.88696%
+Source Step = 9.91655%
+Source Step = 9.94614%
+Source Step = 9.97573%
+Source Step = 10.0053%
+vernier = 0.00146484
+Source Step = 10.0497%
+Source Step = 10.0941%
+Source Step = 10.1385%
+Source Step = 10.1829%
+Source Step = 10.2273%
+vernier = 0.00219727
+Source Step = 10.2916%
+Source Step = 10.3582%
+Source Step = 10.4248%
+Source Step = 10.4914%
+Source Step = 10.558%
+vernier = 0.0032959
+Source Step = 10.6512%
+Source Step = 10.7511%
+Source Step = 10.8509%
+Source Step = 10.9508%
+Source Step = 11.0507%
+vernier = 0.00494385
+Source Step = 11.1855%
+Source Step = 11.3353%
+Source Step = 11.4852%
+Source Step = 11.635%
+Source Step = 11.7848%
+vernier = 0.00741577
+Source Step = 11.9795%
+Source Step = 12.2043%
+Source Step = 12.429%
+Source Step = 12.6537%
+Source Step = 12.8784%
+vernier = 0.0111237
+Source Step = 13.1593%
+Source Step = 13.4964%
+Source Step = 13.8335%
+Source Step = 14.1706%
+Source Step = 14.5076%
+vernier = 0.0166855
+Source Step = 14.9121%
+Source Step = 15.4178%
+Source Step = 15.9234%
+Source Step = 16.429%
+Source Step = 16.9346%
+vernier = 0.0250282
+Source Step = 17.5161%
+Source Step = 18.2745%
+Source Step = 19.0329%
+Source Step = 19.7914%
+Source Step = 20.5498%
+vernier = 0.0375423
+Source Step = 21.3841%
+Source Step = 22.5217%
+Source Step = 23.6594%
+Source Step = 24.797%
+Source Step = 25.9347%
+vernier = 0.0563135
+Source Step = 27.1292%
+Source Step = 28.8357%
+Source Step = 30.5421%
+Source Step = 32.2486%
+Source Step = 33.9551%
+Source Step = 35.6616%
+vernier = 0.0844703
+Source Step = 38.2213%
+Source Step = 40.781%
+Source Step = 43.3407%
+Source Step = 45.9004%
+Source Step = 48.4601%
+vernier = 0.126705
+Source Step = 52.1716%
+Source Step = 56.0112%
+Source Step = 59.8508%
+Source Step = 63.6903%
+Source Step = 67.5299%
+vernier = 0.190058
+Source Step = 72.9053%
+Source Step = 78.6646%
+Source Step = 84.4239%
+Source Step = 90.1833%
+Source Step = 95.9426%
+vernier = 0.285087
+Source Step = 100%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 28.254 seconds.
+
+Files loaded:
+C:\Users\Mikke\OneDrive - Aalborg Universitet\Dokumenter\LTspice\Filter\linkwitzfilter.net
+
